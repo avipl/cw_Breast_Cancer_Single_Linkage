@@ -1,4 +1,4 @@
-# Data clustering using Single Linkage Agglomorative Clusting
+# Data clustering using Single Linkage Agglomerative Clusting
 
 This project contains a custom implementation of library function. The focus of implementation was to produce accurate results. As this is a first implementation, performance optimizations are not considered. 
 
